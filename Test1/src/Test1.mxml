@@ -47,6 +47,7 @@
 			<fx:Object name="Miku" age="14" gender="female"/>
 			<fx:Object name="Rin" age="13" gender="female"/>
 			<fx:Object name="Len" age="13" gender="female"/>
+			<fx:Object name="Luka" age="?" gender="female"/>
 		</s:ArrayCollection>
 	</fx:Declarations>
 	<s:VGroup left="5" right="5" top="5" bottom="5">
