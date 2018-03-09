@@ -6,3 +6,7 @@
 
 <img height="200" width="200" src="./svg-test.svg"/>
 
+### インラインリンク
+
+![](./svg-test.svg")
+
