@@ -8,5 +8,5 @@
 
 ### インラインリンク
 
-![](./svg-test.svg")
+![](./svg-test.svg)
 
