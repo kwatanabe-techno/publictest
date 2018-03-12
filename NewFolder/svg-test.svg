@@ -4,5 +4,7 @@
 <path d="M100 100 V200 H200 V100 H100" fill="#8866cc" stroke="black"/>
 <text font-size="14" fill="#000000" font-family="Arial">
   <tspan x="2" y="40">テクノ産業</tspan>
+  <tspan x="2" y="60">たんどりーちきん</tspan>
+  <tspan x="2" y="80">What is that ?</tspan>
 </text>
 </svg>
