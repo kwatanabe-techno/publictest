@@ -4,7 +4,7 @@
 
 ### イメージタグ2
 
-<img height="200" width="200" src="./svg-test.svg"/>
+<img height="20" width="20" src="./svg-test.svg"/><img height="20" width="20" src="./simple-svg.svg"/>
 
 ### インラインリンク
 
