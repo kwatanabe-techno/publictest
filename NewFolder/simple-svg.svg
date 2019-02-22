@@ -5,8 +5,8 @@
   <tspan x="2" y="20">テクノ産業</tspan>
   <tspan x="2" y="40">たんどりーちきん</tspan>
   <tspan x="2" y="60">What is that ?</tspan>
-  <tspan x="2" y="80" rotate="30" fontSize="40">→</tspan>
+  <tspan x="2" y="80" rotate="30" font-size="40">→</tspan>
   
 </text>
-<text x="2" y="100" rotate="30" fontSize="40">→</text>
+<text x="2" y="100" rotate="30" font-size="40">→</text>
 </svg>
