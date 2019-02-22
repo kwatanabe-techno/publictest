@@ -10,3 +10,5 @@
 
 ![](./svg-test.svg)
 
+![](./simplesvg.svg)
+
