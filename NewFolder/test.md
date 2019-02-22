@@ -10,5 +10,5 @@
 
 ![](./svg-test.svg)
 
-![](./simplesvg.svg)
+![](./simple-svg.svg)
 
