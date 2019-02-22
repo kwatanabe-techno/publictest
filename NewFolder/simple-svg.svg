@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-<text font-size="14" fill="#000000">
+<text font-size="14">
+  <!-- コメント -->
   <tspan x="2" y="40">テクノ産業</tspan>
   <tspan x="2" y="60">たんどりーちきん</tspan>
   <tspan x="2" y="80">What is that ?</tspan>
