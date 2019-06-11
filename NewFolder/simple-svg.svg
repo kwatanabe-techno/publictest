@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="180" height="170">
 <rect x="0" y="0" height="170"  width="180" rx="5" ry="5" fill="#ccffcc" stroke="black"/>
-<text rotate="10">
+<text>
   <!-- コメント -->
   <tspan x="2" y="20">テクノ産業</tspan>
   <tspan x="2" y="40">たんどりーちきん</tspan>
   <tspan x="2" y="60">What is that ?</tspan>
-  <tspan x="2" y="80" rotate="30" font-size="40">→→→→</tspan>
+  <tspan x="2" y="80" font-size="50">→→→→</tspan>
   
 </text>
 <text x="2" y="100" rotate="30" font-size="40" fill="#ff3366">→→→→</text>
