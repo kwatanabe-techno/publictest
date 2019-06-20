@@ -9,6 +9,7 @@
  <rect x="0" y="40" width="150" height="1"/>
  <rect x="0" y="60" width="150" height="1"/>
  <rect x="0" y="80" width="150" height="1"/>
+ <rect x="0" y="100" width="150" height="1"/>
  <rect x="0" y="360" width="150" height="1"/>
  <!-- メニュー項目 -->
  <g font-size="14" fill="black" transform="translate(10,15)">
@@ -16,6 +17,7 @@
   <text x="0" y="20">スケジュール</text>
   <text x="0" y="40">契約</text>
   <text x="0" y="60">売上</text>
+  <text x="0" y="80">商品</text>
   <text x="0" y="360">終了</text>
  </g>
  <!-- スケジュール説明 -->
@@ -35,6 +37,12 @@
  <g font-size="10" transform="translate(400,120)">
   <rect x="0" y="0" width="170" height="50" stroke="black" rx="10" fill="white"/>
   <text x="10" y="20" fill="black">売上ウインドウを開く</text>
+ </g>
+ <!-- 商品説明 -->
+ <line x1="150" x2="200" y1="90" y2="140" stroke="black"/>
+ <g font-size="10" transform="translate(200,130)">
+  <rect x="0" y="0" width="170" height="50" stroke="black" rx="10" fill="white"/>
+  <text x="10" y="20" fill="black">商品ウインドウを開く</text>
  </g>
  <!-- 終了説明 -->
  <line x1="150" x2="400" y1="370" y2="360" stroke="black"/>
